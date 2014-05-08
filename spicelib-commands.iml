@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="spicelib-commands">
     <configurations>
-      <configuration name="spicelib-commands" pure-as="true" output-type="Library" output-file="spicelib-commands-3.1.1.swc" output-folder="$MODULE_DIR$/../../mobitile/out/production/spicelib-commands">
+      <configuration name="spicelib-commands" pure-as="true" output-type="Library" output-file="spicelib-commands-3.1.1.swc" output-folder="$MODULE_DIR$/bin">
         <dependencies target-player="11.6">
           <entries>
             <entry module-name="spicelib-util" build-configuration-name="spicelib-util">
